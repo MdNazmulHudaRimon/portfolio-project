@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Source Serif Pro', serif;
+}
+.container{
+    width: 1150px;
+    margin: auto;
+}
+nav{
+    margin:2%;
+}
+nav ul{
+    list-style-type: none;
+    text-align: right;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
