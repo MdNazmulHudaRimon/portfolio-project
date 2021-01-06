@@ -132,6 +132,14 @@ nav ul li a{
     text-align: center;
 }
 .social-link{
-    width: 30%;
+    width: 1000px;
+    height: 100px;
     margin: auto;
+}
+.col3{
+    margin-left: 400px;
+}
+.col3 img{
+    width: 70px;
+    display: inline-block;
 }
